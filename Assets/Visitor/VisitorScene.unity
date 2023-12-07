@@ -650,6 +650,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _spawner: {fileID: 914436112}
+  _spawnerWeightConfig: {fileID: 11400000, guid: 7601f18759670e74a925e8a74f3770d9,
+    type: 2}
 --- !u!4 &921995805
 Transform:
   m_ObjectHideFlags: 0

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2e2f2099b2dd2e42a9ac9f3435dd7fc, type: 3}
+  m_Name: Spawner weights config
+  m_EditorClassIdentifier: 
+  _maxWeight: 50
+  _orcWeight: 20
+  _humanWeight: 12
+  _elfWeight: 6
